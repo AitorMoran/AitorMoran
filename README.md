@@ -2,7 +2,8 @@
 
 ### 👨🏻‍💻 &nbsp; Sobre mí / About Me
 
-Soy diseñador con más de cinco años de experiencia en la creación de identidades visuales y contenido gráfico de todo tipo. Además combino estos conocimientos con el desarrollo web FullStacks abordando FrontEnd y BackEnd para ofrecer un servicio 360. ¿Mi pasión? Fusionar ambos mundos para crear experiencias visualmente atractivas y funcionales.
+Desarrollador Full Stack especializado en frontend con JavaScript, Bootstrap y React, y en backend con Python, Flask, SQLAlchemy y JWT.
+Mi experiencia en diseño gráfico me permite combinar funcionalidad y estética en cada proyecto mejorando la experiencia de usuario.
 
 ### 🛠 &nbsp; Tecnologías / Tech Stack
 
